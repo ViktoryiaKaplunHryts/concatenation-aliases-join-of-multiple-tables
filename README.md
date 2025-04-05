@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=джойн_нескольких_таблиц)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📁джойн_нескольких_таблиц)](https://git.io/typing-svg)
 
 1. Вывести полное имя автора (в одной ячейке ФИО) и название книги, отсортировать по ФИО в порядке возрастания, по названию книги в порядке убывания. В заголовке столбца с именами должно отображаться «ФИО», а не «(Отсутствует имя столбца)».
 
